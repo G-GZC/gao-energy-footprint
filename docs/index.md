@@ -20,7 +20,7 @@ hero:
       link: /about
     - theme: alt
       text: Download CV
-      link: /public/CV_Dr_Gao_Zuchang
+      link: /CV_Dr_Gao_Zuchang
 
 features:
   - icon: 🔋
