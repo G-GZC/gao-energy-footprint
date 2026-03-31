@@ -20,7 +20,7 @@ hero:
       link: /about
     - theme: alt
       text: Download CV
-      link: /CV_Dr_Gao_Zuchang
+      link: /gao-energy-footprint/CV_Dr_Gao_Zuchang.pdf
 
 features:
   - icon: 🔋
