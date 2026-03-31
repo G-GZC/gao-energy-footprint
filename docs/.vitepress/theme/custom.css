@@ -1,0 +1,169 @@
+/* docs/.vitepress/theme/custom.css */
+
+/* ── Brand Colors (Teal-based, clean energy feel) ── */
+:root {
+  --vp-c-brand-1: #0F6E56;
+  --vp-c-brand-2: #1D9E75;
+  --vp-c-brand-3: #5DCAA5;
+  --vp-c-brand-soft: rgba(15, 110, 86, 0.12);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #0F6E56 0%, #1D9E75 100%);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, rgba(15,110,86,0.2) 0%, rgba(29,158,117,0.15) 100%);;
+  --vp-home-hero-image-filter: blur(56px);;
+}
+
+/* ── Hero text (subtitle) smaller to stay on one line ── */
+.VPHero .text {
+  font-size: 1.6rem !important;
+  max-width: 100% !important;
+  white-space: nowrap;
+}
+
+/* ── Hero image styling ── */
+.VPHero .VPImage.image-src {
+  border-radius: 12px;
+  max-width: 640px;
+}
+
+.dark {
+  --vp-c-brand-1: #5DCAA5;
+  --vp-c-brand-2: #9FE1CB;
+  --vp-c-brand-3: #1D9E75;
+  --vp-c-brand-soft: rgba(93, 202, 165, 0.12);
+}
+
+/* ── Feature Cards ── */
+.VPFeature {
+  border-radius: 12px !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.VPFeature:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* ── Project Cards (custom component) ── */
+.project-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: var(--vp-c-bg-soft);
+}
+.project-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.project-card h3 {
+  margin-top: 0;
+  color: var(--vp-c-brand-1);
+}
+
+/* ── Image containers for project pages ── */
+.project-image {
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1.5rem 0;
+  border: 1px solid var(--vp-c-divider);
+}
+.project-image img {
+  width: 100%;
+  display: block;
+}
+.project-image .caption {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-soft);
+}
+
+/* ── Image Gallery (side by side) ── */
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.image-gallery .project-image {
+  margin: 0;
+}
+
+/* ── Timeline styling ── */
+.timeline-item {
+  position: relative;
+  padding-left: 2rem;
+  padding-bottom: 1.5rem;
+  border-left: 2px solid var(--vp-c-divider);
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -5px;
+  top: 4px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--vp-c-brand-1);
+}
+.timeline-item:last-child {
+  border-left-color: transparent;
+}
+
+/* ── Grants Table ── */
+.grants-table {
+  font-size: 0.9rem;
+  width: 100%;
+}
+.grants-table th {
+  background: var(--vp-c-bg-soft);
+  font-weight: 600;
+  text-align: left;
+}
+.grants-table td, .grants-table th {
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.grants-table tr:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+/* ── Badge / Tag ── */
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+.badge.pi { background: rgba(15, 110, 86, 0.15); color: #0F6E56; }
+.badge.co-pi { background: rgba(29, 100, 200, 0.12); color: #185FA5; }
+.badge.lead { background: rgba(186, 117, 23, 0.12); color: #854F0B; }
+
+/* ── Stats row on home page ── */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+.stat-item {
+  padding: 1.2rem;
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+}
+.stat-item .number {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  line-height: 1.2;
+}
+.stat-item .label {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  margin-top: 0.25rem;
+}
