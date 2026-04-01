@@ -1,8 +1,8 @@
-# Research Projects
+# All Projects as PI/Co-PI Since 2017
 
 **Total research funding secured as PI/co-PI: ~SGD 4 million + RMB 45 million (international partnership)**
 
-## Featured Projects
+<!-- ## Featured Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
 
@@ -56,9 +56,9 @@ Universal Energy Telemetry Platform (IoT) for remote monitoring and control of a
 
 </div>
 
----
+--- 
 
-## All Research Grants
+## All Projects as PI/Co-PI Since 2017 -->
 
 | Period | Project | Role | Funder | Amount |
 |--------|---------|------|--------|--------|

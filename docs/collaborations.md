@@ -31,7 +31,7 @@ Long-standing academic collaboration on clean energy research, student exchange,
 
 Research collaboration on fuel cell technology, power electronics, and energy system optimisation, with active student exchange programmes.
 
----
+<!-- --- -->
 
 ## Industry Partners
 
@@ -42,7 +42,7 @@ Research collaboration on fuel cell technology, power electronics, and energy sy
 | **Spectronik Technology Pte Ltd** | Universal telemetry system for IoT applications |
 | **Enterprise Singapore** | Co-funding and commercialisation support for DUROXO |
 
----
+<!-- --- -->
 
 ## Funding Agencies
 
@@ -53,7 +53,7 @@ Research collaboration on fuel cell technology, power electronics, and energy sy
 | **Energy Market Authority (EMA)** | Deep water battery power system |
 | **Enterprise Singapore (ESG)** | DUROXO commercialisation |
 
----
+<!-- --- -->
 
 ## Professional Standards Involvement
 

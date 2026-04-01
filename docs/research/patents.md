@@ -8,7 +8,7 @@
 2. **"Phase Change Material Based Heat Sink with Volumetric Expansion Control"**  
    Singapore Patent Application
 
----
+<!-- --- -->
 
 ## Filed (Under Review)
 

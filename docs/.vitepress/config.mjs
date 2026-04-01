@@ -30,14 +30,25 @@ export default defineConfig({
       {
         text: 'Research',
         items: [
-          { text: 'Projects', link: '/research/projects' },
-          { text: 'commercialization', link: '/research/products' },
+          { text: 'All Projects', link: '/research/projects' },
+          { text: 'Commercialized Projects', link: '/research/products' },
+          // {
+          //   text: 'Commercialized Projects',
+          //   items: [
+          //     { text: 'All Products', link: '/research/products' },
+          //     { text: 'DUROXO Smart Battery', link: '/research/projects/duroxo' },
+          //     // { text: 'Fuel Cell Drone', link: '/research/projects/fc-drone' },
+          //     { text: 'H₂ Tower Light', link: '/research/projects/h2-tower-light' },
+          //     { text: 'Energy Telemetry Platform', link: '/research/projects/telemetry' },
+          //   ],
+          // },
           { text: 'Publications', link: '/research/publications' },
           { text: 'Patents', link: '/research/patents' },
         ],
       },
       { text: 'Collaborations', link: '/collaborations' },
       { text: 'Awards', link: '/awards' },
+      { text: 'Teaching', link: '/teaching' },
       { text: 'Contact', link: '/contact' },
     ],
 
@@ -49,21 +60,32 @@ export default defineConfig({
         {
           text: 'Research',
           items: [
-            { text: 'Projects', link: '/research/projects' },
-            { text: 'commercialization', link: '/research/products' },
+            { text: 'All Projects', link: '/research/projects' },
+            // { text: 'Commercialized Projects', link: '/research/products' },
+            {
+              text: 'Commercialized Projects',
+              collapsed: true,
+              items: [
+                { text: 'Product Overview', link: '/research/products' },
+                { text: 'DUROXO Smart Battery', link: '/research/projects/duroxo' },
+                // { text: 'Fuel Cell Drone', link: '/research/projects/fc-drone' },
+                { text: 'H₂ Tower Light', link: '/research/projects/h2-tower-light' },
+                { text: 'Energy Telemetry Platform', link: '/research/projects/telemetry' },
+              ],
+            },            
             { text: 'Publications', link: '/research/publications' },
             { text: 'Patents', link: '/research/patents' },
           ],
         },
-        {
-          text: 'Featured Projects',
-          items: [
-            { text: 'DUROXO Smart Battery', link: '/research/projects/duroxo' },
-            { text: 'Fuel Cell Drone', link: '/research/projects/fc-drone' },
-            { text: 'H₂ Tower Light', link: '/research/projects/h2-tower-light' },
-            { text: 'Universal Telemetry', link: '/research/projects/telemetry' },
-          ],
-        },
+        // {
+        //   text: 'Featured Projects',
+        //   items: [
+        //     { text: 'DUROXO Smart Battery', link: '/research/projects/duroxo' },
+        //     { text: 'Fuel Cell Drone', link: '/research/projects/fc-drone' },
+        //     { text: 'H₂ Tower Light', link: '/research/projects/h2-tower-light' },
+        //     { text: 'Universal Telemetry', link: '/research/projects/telemetry' },
+        //   ],
+        // },
       ],
     },
 

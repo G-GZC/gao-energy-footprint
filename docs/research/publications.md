@@ -3,7 +3,7 @@
 **25 publications | 860+ citations**  
 📎 [Google Scholar Profile](https://scholar.google.com/citations?user=7OKQSiIAAAAJ)
 
----
+<!-- --- -->
 
 ## Selected Journal Papers
 
@@ -39,7 +39,7 @@
 
 16. Z. Gao, C.S. Chin, W.L. Woo, J. Jia, *"State-of-Charge Estimation and Active Cell Pack Balancing Design of Lithium Battery Power System for Smart EV,"* **Journal of Advanced Transportation**, Article ID 4028732, 2017.
 
----
+<!-- --- -->
 
 ## Selected Conference Papers
 

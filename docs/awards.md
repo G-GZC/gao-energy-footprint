@@ -29,3 +29,12 @@ Awarded as PI for the **DUROXO Smart Lithium Battery System Project**.
 Recognised as PI for the **Lithium Battery Project** at Temasek Polytechnic.
 
 </div>
+
+<div class="timeline-item">
+
+### 🏆 Public Sector Transformation Award 2020 - Exemplary Innovator
+**Singapore Government**  
+Awarded as team member for the **Fuel cell technology**.
+
+</div>
+

@@ -7,7 +7,7 @@ hero:
   image:
     src: /hero.png
     alt: Fuel Cell Powered Long-Endurance Drone
-  tagline: Intelligent battery management, fuel cell control, and hybrid energy solutions — bridging research and industry across Asia.
+  tagline: Intelligent battery management, fuel cell control, and hybrid energy solutions.
   actions:
     - theme: brand
       text: View Research
@@ -59,13 +59,17 @@ features:
     <div class="label">Citations</div>
   </div>
   <div class="stat-item">
-    <div class="number">SGD 4M+</div>
+    <div class="number">S$ 4M+</div>
     <div class="label">Funding (PI | Co-PI)</div>
   </div>
   <div class="stat-item">
     <div class="number">7</div>
     <div class="label">Countries Deployed</div>
   </div>
+  <div class="stat-item">
+    <div class="number">S$ 8M+</div>
+    <div class="label">Product Sales</div>
+  </div>  
 </div>
 
 ## Research Focus

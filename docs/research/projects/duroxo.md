@@ -24,7 +24,8 @@ The project was honoured with the **Public Sector Transformation Award 2023 (Dar
 
 ## Impact
 
-- Commercially deployed in **14 countries across Asia**
+- Product salse over SGD **8 million** as of Mar 2026
+- Commercially deployed in **7 countries across Asia**
 - Featured by **Channel NewsAsia** in August 2020
 - Led to the **Public Sector Transformation Award 2023** (Dare to Do)
 - Established a sustainable product line that continues to evolve (Eco-BMS, wireless charging integration for autonomous forklifts)

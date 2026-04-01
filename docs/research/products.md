@@ -1,4 +1,4 @@
-# Commercial Products
+# Selected Commercialized Projects
 
 Commercial products developed as the PI over the latest 5 years, demonstrating the translation of research innovations into commercially deployed solutions.
 
