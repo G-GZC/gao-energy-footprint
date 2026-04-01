@@ -18,7 +18,7 @@ Compared to conventional lithium battery-based tower light solutions, the hydrog
 - **Extended operating hours** for remote construction and mining sites
 - **Zero emissions** during operation — clean hydrogen power
 - **Portable design** — easy deployment and relocation on work sites
-- **Reduced logistics** — fewer battery swap and recharging cycles needed
+- **Scalable design** — Convenient to scale up to a larger capacity for larger sites
 
 <!-- --- -->
 
@@ -34,7 +34,7 @@ Compared to conventional lithium battery-based tower light solutions, the hydrog
 ## Impact
 
 - Product commercially launched in **January 2025**
-- Serving customers in **Japan and Indonesia**
+- The primary target users are in the **construction and mining** sectors from Japan and Indonesia
 - Demonstrates viability of hydrogen fuel cell systems for portable industrial applications beyond traditional battery solutions
 
 <!-- --- -->

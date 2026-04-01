@@ -47,7 +47,7 @@
   content: 'Featured Projects';
   display: block;
   width: 100%;
-  text-align: left;
+  text-align: center;
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--vp-c-text-1);

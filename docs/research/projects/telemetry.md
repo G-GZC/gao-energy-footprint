@@ -1,4 +1,4 @@
-# Energy Telemetry Platform (Telemetry System)
+# Energy Telemetry Platform
 
 <span class="badge pi">PI</span> <span class="badge">2025–2026</span> <span class="badge">Industry Consulting</span>
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Partnered with a leading local fuel cell manufacturer, **Spectronik Technology Pte Ltd**, to design and develop a **universal telemetry system for IoT applications**. The system addresses remote monitoring and control challenges in fuel cell systems initially and provides a flexible platform that enables industrial users to easily integrate IoT capabilities into their equipment.
+Partnered with a local leading fuel cell manufacturer, **Spectronik Technology Pte Ltd**, to design and develop a **universal energy telemetry system for IoT applications**. The system addresses remote monitoring and control challenges in fuel cell systems initially and provides a flexible platform that enables industrial users to easily integrate IoT capabilities into their equipment.
 
 The product was **fully developed in March 2026** and **successfully launched on Amazon US**.
 
@@ -14,7 +14,7 @@ The product was **fully developed in March 2026** and **successfully launched on
 
 ## Key Features
 
-- **Universal platform** — designed for broad IoT integration beyond fuel cells
+- **Universal energy platform** — designed for broad IoT integration beyond fuel cells (battey system, equipment power monitoring, etc)
 - **Remote monitoring & control** — real-time data acquisition and command interface
 - **Plug-and-play integration** — enables industrial users to quickly add IoT capabilities to existing equipment
 - **Cloud connectivity** — scalable data infrastructure for fleet-level management
@@ -24,18 +24,19 @@ The product was **fully developed in March 2026** and **successfully launched on
 
 ## Technical Highlights
 
-- Embedded telemetry hardware based on custom MCU platform
-- Flexible communication protocols supporting 4G/WiFi connectivity
-- Modular firmware architecture for rapid adaptation to different equipment types
-- Web-based dashboard for real-time data visualisation and alerts
+- Standardized protocols between telemetry and third-party to support easy integration 
+- Configrable web-UI for rapid adaptation to different equipment types
+- Full support for interfaces including UART/CAN/SPI/I2C/TypeC
+- 4G/WIFI wirless communication, smooth swapping
 
 <!-- --- -->
 
 ## Impact
 
 - Product commercially launched on **Amazon US** in March 2026
-- Demonstrates a scalable IoT platform originating from fuel cell domain expertise
-- Enables remote diagnostics and predictive maintenance for industrial energy systems
+- Secured first batch of order within the first week after launching
+- Demonstrates a universal energy IoT platform 
+- Enables remote communication and control for industrial energy systems
 
 <!-- --- -->
 
@@ -55,12 +56,12 @@ Place your images in `docs/images/projects/telemetry/` and reference them as sho
   </div>
   <div class="project-image">
     <img src="/images/projects/telemetry/application.jpg" alt="Potential applications">
-    <div class="caption">Real-time web-based monitoring dashboard</div>
+    <div class="caption">Potential applications</div>
   </div>
 </div>
 <div class="project-image">
   <img src="/images/projects/telemetry/GUI.jpg" alt="Web monitoring dashboard">
-  <div class="caption">Universal telemetry unit — compact design for industrial integration</div>
+  <div class="caption">Real-time web-based monitoring dashboard</div>
 </div>
 
 <!-- --- -->

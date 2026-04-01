@@ -1,6 +1,6 @@
 # DUROXO Smart Lithium Battery System
 
-<span class="badge pi">PI</span> <span class="badge">2019–2022</span> <span class="badge">SGD 560K</span> <span class="badge">Industry + ESG</span>
+<span class="badge pi">PI</span> <span class="badge">2019–2022</span> <span class="badge">Grant: S$ 560K</span> <span class="badge">Latest Sales: S$ 8M</span>
 
 **Product Link:** https://www.batteryasia.com.sg/lithium-solutions
 
@@ -24,11 +24,10 @@ The project was honoured with the **Public Sector Transformation Award 2023 (Dar
 
 ## Impact
 
-- Product salse over SGD **8 million** as of Mar 2026
-- Commercially deployed in **7 countries across Asia**
+- Product salse over SGD **8 Million** as of Mar 2026
+- Commercially deployed in **7 countries** across Asia
 - Featured by **Channel NewsAsia** in August 2020
 - Led to the **Public Sector Transformation Award 2023** (Dare to Do)
-- Established a sustainable product line that continues to evolve (Eco-BMS, wireless charging integration for autonomous forklifts)
 
 <!-- --- -->
 
@@ -70,4 +69,4 @@ Place your images in `docs/images/projects/duroxo/` and reference them as shown 
 ## Collaborators
 
 - **Battery Asia (S) Pte Ltd** — Industry partner
-- **Enterprise Singapore** — Co-funding agency
+- **Enterprise Singapore** — Funding agency

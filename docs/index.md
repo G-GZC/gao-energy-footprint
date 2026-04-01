@@ -45,19 +45,21 @@ features:
     linkText: View project →
 ---
 
+<h2 style="text-align: center;">Key Achievement Since 2019</h2>
+
 <div class="stats-row">
   <div class="stat-item">
     <div class="number">10+</div>
     <div class="label">Years of R&D</div>
   </div>
-  <div class="stat-item">
+  <!-- <div class="stat-item">
     <div class="number">25</div>
     <div class="label">Publications</div>
   </div>
   <div class="stat-item">
     <div class="number">860+</div>
     <div class="label">Citations</div>
-  </div>
+  </div> -->
   <div class="stat-item">
     <div class="number">S$ 4M+</div>
     <div class="label">Funding (PI | Co-PI)</div>
