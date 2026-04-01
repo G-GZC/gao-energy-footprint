@@ -33,14 +33,15 @@ Research collaboration on fuel cell technology, power electronics, and energy sy
 
 <!-- --- -->
 
-## Industry Partners
+## Key Industry Partners
 
 | Partner | Collaboration Area |
 |---------|-------------------|
 | **Battery Asia (S) Pte Ltd** | DUROXO smart lithium battery system for material handling equipment |
 | **Powerzone H2 Technologies Pte Ltd** | Portable hydrogen fuel cell tower light for construction and mining |
 | **Spectronik Technology Pte Ltd** | Universal telemetry system for IoT applications |
-| **Enterprise Singapore** | Co-funding and commercialisation support for DUROXO |
+| **Analog Devices International** | Semiconductors technical support and commercialization partner|
+| **NXP Semiconductors** | Semiconductors technical support and commercialization partner |
 
 <!-- --- -->
 
@@ -50,7 +51,7 @@ Research collaboration on fuel cell technology, power electronics, and energy sy
 |--------|----------------|
 | **National Research Foundation (NRF)** | Fuel cell-powered long-endurance drone (SGD 1.2M) |
 | **Ministry of Education (MOE)** | Multiple research grants on BMS and fuel cell systems |
-| **Energy Market Authority (EMA)** | Deep water battery power system |
+| **Singapore Maritime Institute (SMI)** | Deep water battery power system |
 | **Enterprise Singapore (ESG)** | DUROXO commercialisation |
 
 <!-- --- -->

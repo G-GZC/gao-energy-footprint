@@ -1,6 +1,6 @@
 # Portable H₂ Fuel Cell Tower Light
 
-<span class="badge pi">PI</span> <span class="badge">2023–2024</span> <span class="badge">Industry Consulting</span>
+<span class="badge pi">PI</span> <span class="badge">Product launched Jan 2025</span><span class="badge">Latest Sales: Secured Indonisia Order 100 sets</span>
 
 **Product Link:** https://www.powerzoneh2.com.sg/copy-of-fuel-cell-power-for-uavs-1
 

@@ -29,7 +29,7 @@ features:
     link: /research/projects/duroxo
     linkText: View project →
   - icon: 🚁
-    title: Fuel Cell Drone
+    title: Long-endurance FC Drone
     details: Singapore's first hydrogen fuel cell-powered long-endurance drone (>2 hrs), deployed for PUB smart water pipeline inspection.
     link: /research/projects/fc-drone
     linkText: View project →
@@ -48,10 +48,17 @@ features:
 <h2 style="text-align: center;">Key Achievement Since 2019</h2>
 
 <div class="stats-row">
+
   <div class="stat-item">
     <div class="number">10+</div>
     <div class="label">Years of R&D</div>
   </div>
+
+  <div class="stat-item">
+    <div class="number">5x</div>
+    <div class="label">Drone Flight Time</div>
+  </div>
+
   <!-- <div class="stat-item">
     <div class="number">25</div>
     <div class="label">Publications</div>

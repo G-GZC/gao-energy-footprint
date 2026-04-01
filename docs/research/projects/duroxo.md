@@ -1,6 +1,6 @@
 # DUROXO Smart Lithium Battery System
 
-<span class="badge pi">PI</span> <span class="badge">2019–2022</span> <span class="badge">Grant: S$ 560K</span> <span class="badge">Latest Sales: S$ 8M</span>
+<span class="badge pi">PI</span> <span class="badge">Product launched Apr 2022</span><span class="badge">Latest Sales: S$ 8 Million</span>
 
 **Product Link:** https://www.batteryasia.com.sg/lithium-solutions
 

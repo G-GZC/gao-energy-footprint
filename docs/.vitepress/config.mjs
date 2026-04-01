@@ -67,10 +67,10 @@ export default defineConfig({
               collapsed: true,
               items: [
                 { text: 'Product Overview', link: '/research/products' },
-                { text: 'DUROXO Smart Battery', link: '/research/projects/duroxo' },
-                // { text: 'Fuel Cell Drone', link: '/research/projects/fc-drone' },
+                { text: 'DUROXO Smart Battery', link: '/research/projects/duroxo' },                
                 { text: 'H₂ Tower Light', link: '/research/projects/h2-tower-light' },
                 { text: 'Energy Telemetry Platform', link: '/research/projects/telemetry' },
+                { text: 'Long-endurance FC Drone', link: '/research/projects/fc-drone' },
               ],
             },            
             { text: 'Publications', link: '/research/publications' },

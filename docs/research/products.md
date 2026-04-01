@@ -6,7 +6,7 @@ Commercial products developed as the PI over the latest 5 years, demonstrating t
 
 ## DUROXO Lithium-Ion Solutions
 
-<span class="badge pi">PI</span> <span class="badge">Launched Apr 2022</span>
+<span class="badge pi">PI</span> <span class="badge">Product launched Apr 2022</span><span class="badge">Latest Sales: S$ 8 Million</span>
 
 Developed a smart **LiFePO₄ battery management system (BMS)** for **forklifts and material handling equipment** in collaboration with **Battery Asia (S) Pte Ltd** and **Enterprise Singapore**.
 
@@ -22,23 +22,9 @@ Developed a smart **LiFePO₄ battery management system (BMS)** for **forklifts 
 
 <!-- --- -->
 
-## Singapore's First Fuel Cell Drone
-
-<span class="badge pi">PI</span> <span class="badge">Deployed</span>
-
-As the PI, led the development of a hydrogen fuel cell-powered **long-endurance drone (25 kg class)** with AI-enabled inspection capabilities. 
-
-**Deployment：** The platform was successfully deployed in **March 2023** for smart water pipeline inspection for the **Public Utilities Board (PUB)**, 
-
-**Impact:** Achieving **>2 hours flight endurance** and demonstrating the viability of hydrogen-powered UAV systems for infrastructure inspection.
-
-[View full project details →](./projects/fc-drone)
-
-<!-- --- -->
-
 ## Portable H₂ Fuel Cell Tower Light
 
-<span class="badge pi">PI</span> <span class="badge">Launched Jan 2025</span>
+<span class="badge pi">PI</span> <span class="badge">Product launched Jan 2025</span><span class="badge">Latest Sales: Secured Indonisia Order 100 sets</span>
 
 Collaborated with local SME **Powerzone H2 Technologies Pte Ltd** to develop a portable hydrogen fuel cell tower light designed to meet on-site lighting needs in the **construction and mining sectors** for customers in **Japan and Indonesia**. 
 
@@ -60,10 +46,9 @@ Developed a standardised control strategy for multi-stack air-cooled hydrogen fu
 
 --- -->
 
+## Energy Telemetry Platform
 
-## Universal Telemetry System
-
-<span class="badge pi">PI</span> <span class="badge">Launched Mar 2026</span>
+<span class="badge pi">PI</span> <span class="badge">Product launched Mar 2026</span><span class="badge">Latest Sales: Secured first order within one week</span>
 
 Partnered with a leading local fuel cell manufacturer, **Spectronik Technology Pte Ltd**, to design and develop a universal telemetry system for IoT applications. 
 
@@ -74,3 +59,18 @@ Partnered with a leading local fuel cell manufacturer, **Spectronik Technology P
 **Impact:** The product has been **fully developed in March 2026** and **successfully launched on Amazon US**.
 
 [View full project details →](./projects/telemetry)
+
+<!-- --- -->
+
+## Long-Endurance: Singapore's First Fuel Cell-Powered Drone
+
+<span class="badge pi">PI</span> <span class="badge">Deployed</span><span class="badge">Commercial discussion in progress with overseas customer</span>
+
+As the PI, led the development of a hydrogen fuel cell-powered **long-endurance drone (25 kg class)** with AI-enabled inspection capabilities. 
+
+**Deployment：** The platform was successfully deployed in **March 2023** for smart water pipeline inspection for the **Public Utilities Board (PUB)**, 
+
+**Impact:** Achieving **>2 hours flight endurance** and demonstrating the viability of hydrogen-powered UAV systems for infrastructure inspection.
+
+[View full project details →](./projects/fc-drone)
+

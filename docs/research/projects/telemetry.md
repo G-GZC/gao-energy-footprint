@@ -1,6 +1,6 @@
 # Energy Telemetry Platform
 
-<span class="badge pi">PI</span> <span class="badge">2025–2026</span> <span class="badge">Industry Consulting</span>
+<span class="badge pi">PI</span> <span class="badge">Product launched Mar 2026</span><span class="badge">Latest Sales: Secured first order within one week</span>
 
 **Product Link:** https://area65tech.com/4g-telemetry/
 
