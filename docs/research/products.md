@@ -1,6 +1,6 @@
 # Selected Commercialized Projects
 
-Commercial products developed as the PI over the latest 5 years, demonstrating the translation of research innovations into commercially deployed solutions.
+Commercial products developed as the PI since 2019, demonstrating the translation of research innovations into commercially deployed solutions.
 
 <!-- --- -->
 

@@ -25,7 +25,7 @@ hero:
 features:
   - icon: 🔋
     title: DUROXO Smart Battery
-    details: VDE-certified LiFePO₄ BMS for forklifts, commercially deployed across 14 countries in Asia. Winner of Public Sector Transformation Award 2023.
+    details: VDE-certified LiFePO₄ BMS for forklifts, commercially deployed across 7 countries in Asia. Winner of Public Sector Transformation Award 2023.
     link: /research/projects/duroxo
     linkText: View project →
   - icon: 🚁

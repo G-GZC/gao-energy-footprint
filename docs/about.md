@@ -6,7 +6,7 @@ I am a Senior Scientist & Manager at the **Clean Energy Research Centre (CERC)**
 
 I lead the **Power System Control division** covering lithium battery systems and fuel cell systems in the centre, managing a team of **5 engineers and scientists**. As Principal Investigator (**PI/Co-PI**) on multiple national and industry-funded research projects, I have secured over **SGD 4 million** in competitive grants and directed international industry partnerships valued at over **RMB 45 million**.
 
-My work has resulted in **25 publications with 860+ citations**, multiple patents, and commercially deployed products across **14 countries** in Asia.
+My work has resulted in **25 publications with 860+ citations**, multiple patents, and commercially deployed products across **7 countries** in Asia.
 
 <!-- --- -->
 
