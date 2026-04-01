@@ -49,15 +49,15 @@ features:
 
 <div class="stats-row">
 
-  <div class="stat-item">
+  <a class="stat-item" href="/gao-energy-footprint/about" style="text-decoration: none; color: inherit;">
     <div class="number">10+</div>
     <div class="label">Years of R&D</div>
-  </div>
+  </a>
 
-  <div class="stat-item">
+  <a class="stat-item" href="/gao-energy-footprint/research/projects/fc-drone" style="text-decoration: none; color: inherit;">
     <div class="number">5x</div>
     <div class="label">Drone Flight Time</div>
-  </div>
+  </a>
 
   <!-- <div class="stat-item">
     <div class="number">25</div>
@@ -67,18 +67,22 @@ features:
     <div class="number">860+</div>
     <div class="label">Citations</div>
   </div> -->
-  <div class="stat-item">
+
+  <a class="stat-item" href="/gao-energy-footprint/research/projects" style="text-decoration: none; color: inherit;">
     <div class="number">S$ 4M+</div>
     <div class="label">Funding (PI | Co-PI)</div>
-  </div>
-  <div class="stat-item">
+  </a>
+
+  <a class="stat-item" href="/gao-energy-footprint/research/projects/duroxo" style="text-decoration: none; color: inherit;">
     <div class="number">7</div>
     <div class="label">Countries Deployed</div>
-  </div>
-  <div class="stat-item">
+  </a>
+
+  <a class="stat-item" href="/gao-energy-footprint/research/projects/duroxo" style="text-decoration: none; color: inherit;">
     <div class="number">S$ 8M+</div>
     <div class="label">Product Sales</div>
-  </div>  
+  </a>  
+  
 </div>
 
 ## Research Focus
