@@ -45,7 +45,7 @@ features:
     linkText: View project →
 ---
 
-<h2 style="text-align: center;">Key Achievement Since 2019</h2>
+<h2 style="text-align: center;">Key Achievement</h2>
 
 <div class="stats-row">
 
@@ -82,7 +82,7 @@ features:
     <div class="number">S$ 8M+</div>
     <div class="label">Product Sales</div>
   </a>  
-  
+
 </div>
 
 ## Research Focus
